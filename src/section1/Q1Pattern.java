@@ -19,6 +19,7 @@ public class Q1Pattern {
 				}
 			System.out.println();
 		}
+		System.out.println("prograam ended here ");
 	}
 
 }
