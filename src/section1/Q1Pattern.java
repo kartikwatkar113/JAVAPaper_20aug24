@@ -21,6 +21,9 @@ public class Q1Pattern {
 		}
 		System.out.println("prograam ended here ");
 		System.out.println("changes show here");
+		System.out.println("prograam ended here ");
+		System.out.println("changes show here");
+		
 	}
 
 }
