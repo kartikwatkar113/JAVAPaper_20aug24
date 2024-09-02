@@ -31,6 +31,7 @@ public class Q2SecondHigh {
 		}
 		System.out.println("Second max:- "+secmax);
 		System.out.println("program ended here 2nd max");
+		System.out.println("now i want to changes");
 	}
 
 }
